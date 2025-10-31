@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv
+
+.mayge
+.mypy_cache
+words/.~1数据探索与预处理.docx
+words/.~验1作业模版.docx
+"words/HKEY_CURRENT_USER\\Software\\kingsoft\\Office\\6.0\\plugins\\kcopilotentrylite\\aibrandcfg"
