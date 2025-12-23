@@ -1,0 +1,5 @@
+,Precision (P),Recall (R),F1-Measure,AUC
+DT_Full,0.3333,0.3077,0.32,0.6099
+Bagging_Full,1.0,0.0769,0.1429,0.8343
+DT_KBest,0.2727,0.2308,0.25,0.5714
+Bagging_KBest,0.0,0.0,0.0,0.776
